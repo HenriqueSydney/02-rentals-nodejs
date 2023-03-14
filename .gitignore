@@ -1,3 +1,8 @@
-# Dependencies
 node_modules
-
+.vscode
+tmp/*
+dist/
+build/
+.env
+!tmp/.gitkeep
+covarage
